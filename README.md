@@ -22,19 +22,19 @@ This Project includes Web scraping, EDA, Sentiment Analysis, Text Summarization 
 ## Sentiment Analysis using Natural Language Toolkit (NLTK)
 Used two of the popular libraries for performing this task:
 
-> VADER (Valence Aware Dictionary and sEntiment Reasoner):
+### VADER (Valence Aware Dictionary and sEntiment Reasoner):
 A lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media. VADER not only tells about the Positivity and Negativity score but also tells us about how positive or negative a sentiment is.
-> TextBlob:
+### TextBlob:
 Library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more
 
 ## Text Summarization in NLP
-> TextRenk Algorithm
-> Similarity Matrix
-> GloVe Vectors
+1. TextRenk Algorithm
+2. Similarity Matrix
+3. GloVe Vectors
 
 ## Auto-Text Generation
 1. Recurrent Neural Network
-![RNN works like this] (https://camo.githubusercontent.com/277e2f87c346943e3e6b599460258c7900249379/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a41513532627757353547734a74364854785044754d412e676966)
-2. Word Embeddings using TensorFlow and Keras
+![RNN works like this](https://camo.githubusercontent.com/277e2f87c346943e3e6b599460258c7900249379/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a41513532627757353547734a74364854785044754d412e676966)
+2. Word Embeddings using <b>TensorFlow and Keras
 3. LSTM
 ![LSTM for text generation](https://camo.githubusercontent.com/37473904bd852a4ad61d618ecf987ab166aa9bc0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a6e2d4967485a4d35626142556a7130543752594442772e676966)
