@@ -27,7 +27,7 @@ A lexicon and rule-based sentiment analysis tool that is specifically attuned to
 ### TextBlob:
 Library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more
 
-## Text Summarization in NLP
+## Text Summarization in Natural Language Processing (NLP)
 1. TextRenk Algorithm
 2. Similarity Matrix
 3. GloVe Vectors
